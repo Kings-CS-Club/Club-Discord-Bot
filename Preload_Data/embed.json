@@ -1,0 +1,14 @@
+{
+    "colors": [
+        "AQUA",
+        "GREEN",
+        "BLUE",
+        "PURPLE",
+        "GOLD",
+        "ORANGE",
+        "RED",
+        "NAVY"
+    ],
+    "default_footer": "- Programming Club",
+    "timer_duration": 480000
+}

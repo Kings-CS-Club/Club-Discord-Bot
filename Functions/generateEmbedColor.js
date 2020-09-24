@@ -1,0 +1,1 @@
+module.exports = () => preload_data.colors[preload_data.embed.colors.random()];
